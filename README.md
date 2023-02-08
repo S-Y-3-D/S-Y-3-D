@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <br/>
-### Glad to see you here!  
+
+## Glad to see you here!  
 
 Hi, my name is Syed Hamza, and I am a recent graduate from FAST with a degree in CS. My passion is Frontend and Machine Learning, and I am excited to begin my journey as a professional in these areas. I have a strong background in development, with expertise in HTML, CSS, JavaScript, React, and Node.js, as well as a solid understanding of machine learning techniques and principles such as supervised and unsupervised learning, deep learning, and natural language processing.
 
@@ -137,4 +138,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
