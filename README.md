@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-###Glad to see you here!  
+</div>
+<br/>
+### Glad to see you here!  
+
 Hi, my name is Syed Hamza, and I am a recent graduate from FAST with a degree in CS. My passion is Frontend and Machine Learning, and I am excited to begin my journey as a professional in these areas. I have a strong background in development, with expertise in HTML, CSS, JavaScript, React, and Node.js, as well as a solid understanding of machine learning techniques and principles such as supervised and unsupervised learning, deep learning, and natural language processing.
 
 I am a highly motivated and driven individual and have a track record of success in my studies and extracurricular activities. I am eager to put my skills and knowledge to use in a professional setting and have the desire to learn and grow in the field of Frontend and Machine Learning.
